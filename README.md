@@ -1,2 +1,2 @@
-# EDA-Capstone-Project-1-
- EDA Capstone Project 1  - AirBNB booking analysis
+# EDA-Capstone-Project-1
+ EDA Capstone Project 1  - Airbnb booking analysis
